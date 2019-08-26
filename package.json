@@ -21,21 +21,21 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "base-widget": "git+https://github.com/cancerberoSgx/base-widget.git",
+    "base-widget": "git+https://github.com/cancerberoSgx/base-widget.git#master",
     "blessed": "0.1.81",
-    "bluebird": "3.5.4",
-    "editor-widget": "git+https://github.com/cancerberoSgx/editor-widget.git",
-    "lodash": "4.17.11",
+    "bluebird": "3.5.5",
+    "editor-widget": "git+https://github.com/sidneys/editor-widget.git#master",
+    "lodash": "4.17.15",
     "mkdirp": "0.5.1",
     "node-clap": "0.0.5",
     "rc": "1.2.8",
-    "slap-util": "git+https://github.com/cancerberoSgx/slap-util.git",
+    "slap-util": "git+https://github.com/cancerberoSgx/slap-util.git#master",
     "ttys": "0.0.3",
-    "update-notifier": "2.5.0"
+    "update-notifier": "3.0.1"
   },
   "devDependencies": {
     "get-random-port": "0.0.1",
     "istanbul": "0.4.5",
-    "tape": "4.10.1"
+    "tape": "4.11.0"
   }
 }
