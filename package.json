@@ -21,7 +21,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "base-widget": "git+https://github.com/cancerberoSgx/base-widget.git#master",
+    "base-widget": "git+https://github.com/sidneys/base-widget.git#master",
     "blessed": "0.1.81",
     "bluebird": "3.5.5",
     "editor-widget": "git+https://github.com/sidneys/editor-widget.git#master",
